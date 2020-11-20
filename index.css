@@ -1,0 +1,36 @@
+body
+
+    {
+    margin: 0;
+    padding: 0;
+    background: url("../../images/background.jpg");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    height: 100vh;
+
+}
+
+.buttonpost
+
+
+    {
+    background-color: rgb(233, 185, 55);
+    font-size: medium;
+    padding: 0.8rem 0.8rem;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.post-buttons A {
+    color: inherit;
+}
+
+.post-buttons {
+    text-align: center;
+
+    margin-top: 33vh;
+
+}
